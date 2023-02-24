@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pet-crud-app-fdc81": {
+      "hosting": {
+        "pet-crud-app": [
+          "pet-crud-app-fdc81"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pet-crud-app-fdc81"
+  }
+}
